@@ -102,9 +102,7 @@ The notebook includes an additional analysis of winners' ages at the time of the
 - The 2024 data is programmatically added based on official Nobel Prize announcements for 2024, ensuring the analysis is current as of August 30, 2025.
 - Visualizations use `seaborn` and `matplotlib` for clarity and aesthetic appeal.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
